@@ -37,13 +37,16 @@ a:visited, a:link {
 }
 
 .head1 {
-    text-align: center;
+	text-align: center;
+	font-size: 53;
 }
 
 .head2 {
-    text-align: center;
+	text-align: center;
+	font-size: 30;
 }
 
 .head3 {
-    text-align: left;
+	text-align: left;
+	font-size: 20;
 }
